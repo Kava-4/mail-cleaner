@@ -1,0 +1,12 @@
+node_modules/
+.next/
+out/
+dist/
+data/credentials.json
+data/token.json
+data/whitelist.json
+data/frames/
+.env
+.env.local
+*.log
+.DS_Store
